@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\bin\Debug\netcoreapp3.1\LABTaskthree.exe
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\bin\Debug\netcoreapp3.1\LABTaskthree.deps.json
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\bin\Debug\netcoreapp3.1\LABTaskthree.runtimeconfig.json
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\bin\Debug\netcoreapp3.1\LABTaskthree.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\bin\Debug\netcoreapp3.1\LABTaskthree.dll
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\bin\Debug\netcoreapp3.1\LABTaskthree.pdb
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.dll
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.pdb
+C:\Users\ivuqa\source\repos\LABTaskthree\LABTaskthree\obj\Debug\netcoreapp3.1\LABTaskthree.genruntimeconfig.cache
